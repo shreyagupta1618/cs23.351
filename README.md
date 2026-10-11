@@ -467,7 +467,8 @@ B: MEMORY USING tracemalloc
 
 ## Aim
 
-To write a Python program using Matplotlib to plot and compare different time complexities such as O(1), O(log n), O(n), O(n log n), O(nÂ²), O(nÂ³), O(2â¿), and O(n!).
+To write a Python program using Matplotlib to plot and compare different time complexities such as O(1), O(log n), O(n), O(n log n), O(n²), O(n³), O(2ⁿ), and O(n!).
+
 
 ## Program
 
